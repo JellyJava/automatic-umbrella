@@ -6,7 +6,9 @@
 
 * Logically equivalent: If all the truth table results are same
 * Equivalence laws:
-![Alt text](/images/equivalence_laws.jpg)
+
+
+<img src="/images/equivalence_laws.jpg" width="70%" height="70%"></img>
 
 * How to check if arguement is valid?
   1. Truth Table: Be aware of T - T - F case
@@ -15,7 +17,8 @@
 # Inference
 
 * Inference rules:
-![Alt text](/images/inference_rules.jpg)
+
+<img src="/images/inference_rules.jpg" width="70%" height="70%"></img>
 
 # Predicate
 
@@ -27,5 +30,7 @@
   * ~((∀x ∈ D, p(x)) ≡ ∃x, ~(p(x) → q(x)) ≡ ∃x, (p(x) ∧ ~q(x))
 
 * Negation of propositions with multiple quantifiers
-![Alt text](/images/multiple.jpeg)
+
+<img src="/images/multiple.jpeg" width="70%" height="70%"></img>
+
 
